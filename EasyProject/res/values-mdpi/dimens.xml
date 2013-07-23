@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <!-- Special fix for Helvetica Fonts -->
+    <dimen name="helveticaForceLayout">-4sp</dimen>
+	<dimen name="gearedSlabForceLineSpacingExtra">4sp</dimen>
+</resources>
